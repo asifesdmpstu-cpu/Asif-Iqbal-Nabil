@@ -1,28 +1,52 @@
-Hi there, I'm Asif Iqbal Nabil
+# Hi, I'm Asif Iqbal Nabil
 
-I am a researcher and student of Environmental Science and Disaster Management at Patuakhali Science and Technology University (PSTU). I am passionate about bridging the gap between data-driven environmental research and actionable policy-making.
+**Environmental Science Graduate | GIS & Remote Sensing | Environmental Research**
 
-# Research Interests
-1. Spatial Analysis & GIS: Utilizing mapping tools for environmental monitoring and disaster risk reduction.
-2. Water Quality & Environmental Chemistry: Monitoring heavy metal contamination in surface waters.
-3. Climate Resilience & Policy: Translating scientific findings into community-level resilience strategies.
+I am an Environmental Science and Disaster Management graduate from **Patuakhali Science and Technology University (PSTU), Bangladesh**. My interests lie at the intersection of environmental research, geospatial analysis, and evidence-based approaches to environmental management and climate resilience.
 
-# Technical Skills
-1. Spatial Analysis: ArcGIS, OpenStreetMap, Google Earth Engine
-2. Data Analysis & Visualization: SPSS, Origin, Microsoft Office ( Excel, Word, Powerpoint etc.)
-3. Laboratory Analysis: ICP-OES, AAS instrumentation
+My academic work has included investigating heavy-metal contamination in surface water in **Gazipur Sadar**, with laboratory analysis conducted at the **Bangladesh Atomic Energy Commission (BAEC)**. I am interested in using environmental data and geospatial tools to understand environmental challenges and support practical, research-informed solutions.
 
-# Leadership & Policy Engagement
-1. Youth for COP: Engaged in climate-focused initiatives.
-2. Aspire Leaders Program: Completed comprehensive leadership training modules.
-3. DisasterReady: MEAL Essentials Certified.
-4. YSDI Trust: Competed in the International Leadership Competition.
-5. Practical Action: Engaged in climate resilience training
+## Research interests
 
-# Featured Projects
-1. Spatial Mapping: Mapping and spatial analysis of various area in Bangladesh
-2. Water Quality Research: Analysis of Heavy Metal Contamination in Surface Waters Adjacent to Low-Density Industrial Sites in Gazipur Sadar.
+- **Environmental quality:** Water quality assessment, heavy-metal contamination, and pollution monitoring.
+- **GIS and remote sensing:** Spatial analysis, environmental mapping, and satellite-derived indicators.
+- **Climate resilience and disaster risk reduction:** Evidence-based assessment and planning.
+- **Sustainable development:** Environmental management and sustainability in Bangladesh.
 
-# How to reach me
-Email: asif.esdm.pstu@gmail.com
-LinkedIn: https://www.linkedin.com/in/esdmnabil
+## Technical skills
+
+- **GIS and geospatial tools:** ArcGIS / ArcMap, OpenStreetMap
+- **Remote sensing:** Google Earth Engine
+- **Data analysis and visualization:** SPSS, Origin, Microsoft Excel
+- **Laboratory methods and instrumentation:** ICP-OES and AAS (academic research experience)
+
+## Selected projects
+
+1. **[Heavy Metal Contamination in Gazipur](https://github.com/asifesdmpstu-cpu/Heavy-Metal-Contamination-Gazipur)**  
+   Academic research on heavy-metal contamination in surface water near industrial locations in Gazipur Sadar.
+
+2. **[NDVI Spatial Mapping and Vegetation Health Analysis of Dhaka Division](https://github.com/asifesdmpstu-cpu/NDVI-Spatial-Mapping-and-Vegetation-Health-Analysis-of-Dhaka-Division)**  
+   Remote-sensing-based vegetation condition mapping using NDVI.
+
+3. **[Study Area Map and Surface Water Sampling Locations in Gazipur Sadar](https://github.com/asifesdmpstu-cpu/Study-Area-Map-and-Surface-Water-Sampling-Locations-in-Gazipur-Sadar)**  
+   GIS-based study-area mapping and visualization of surface-water sampling locations.
+
+4. **[Topographical Slope Mapping and Terrain Analysis of Gazipur Sadar](https://github.com/asifesdmpstu-cpu/Topographical-Slope-Mapping-and-Terrain-Analysis-of-Gazipur-Sadar)**  
+   DEM-derived slope mapping to support terrain and environmental assessment.
+
+## Leadership and learning
+
+- Youth for COP — participation in climate-focused initiatives.
+- Aspire Leaders Program — leadership development.
+- DisasterReady — MEAL Essentials training.
+- YSDI Trust — International Leadership Competition.
+- Practical Action — climate-resilience training.
+
+## Connect with me
+
+- **LinkedIn:** [Asif Iqbal Nabil](https://www.linkedin.com/in/esdmnabil)
+- **Email:** [asif.esdm.pstu@gmail.com](mailto:asif.esdm.pstu@gmail.com)
+
+---
+
+*I welcome opportunities to learn, collaborate, and contribute to environmental research, GIS and remote-sensing applications, and climate-resilience initiatives.*
